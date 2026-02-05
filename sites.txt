@@ -121,6 +121,7 @@ laihoconsulting.com
 blog.lovsund.eu
 robsplace.dev
 robsplace.thsite.top
+ninimotom.com
 cogilabs.eu
 frvser.com
 jodie.website
@@ -457,6 +458,7 @@ offthehook.cc
 www.wildwild.directory
 www.gross.sh
 segments.zhan.science
+sendastranger.love
 chrisritchie.org
 phinjensen.com
 newsonaut.com
@@ -535,7 +537,7 @@ neilherbert.uk
 masfloss.net
 www.lexiqqq.com
 sanitarium.se
-ktibow.github.io
+kendell.dev
 jade.ellis.link
 jcd.pub
 luke.hsiao.dev
